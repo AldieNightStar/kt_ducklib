@@ -2,6 +2,25 @@
 DuckTyping for Kotlin
 * Based on `DuckLib for Java`
 
+# Install
+```groovy
+repositories {
+    // ...
+    
+    // Add this line
+    maven { url 'https://jitpack.io' }
+}
+
+dependencies {
+    // ...
+    
+    // Add this line
+    implementation 'com.github.AldieNightStar:kt_ducklib:bbdb1e2233'
+}
+
+
+```
+
 # Simple to use
 ```kotlin
 interface AB {
