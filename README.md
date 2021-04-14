@@ -15,7 +15,7 @@ dependencies {
     // ...
     
     // Add this line
-    implementation 'com.github.AldieNightStar:kt_ducklib:bbdb1e2233'
+    implementation 'com.github.AldieNightStar:kt_ducklib:ce21daf1b3'
 }
 
 
